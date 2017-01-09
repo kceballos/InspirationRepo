@@ -1,4 +1,4 @@
-# InspirationRepo
+# kceballos Inspiration Board
 list of things I would like to build 
 
 Background with sliding photos as in image below. Inspiration from thirdcrown.com
