@@ -17,5 +17,5 @@ inpiration taken from milly.com/milly-minis
 And maybe add a social media bar on the side where the customer can share any photos from my website. 
 ![social media bar] (https://github.com/kceballos/InspirationRepo/blob/master/social%20media%20menu%20bar.jpg?raw=true)
 
-Pinterest sharing:
+Example of Pinterest sharing:
 ![pinterest gallery] (https://github.com/kceballos/InspirationRepo/blob/master/pinterest%20sharing%20gallery.jpg?raw=true)
