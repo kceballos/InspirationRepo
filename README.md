@@ -14,3 +14,8 @@ Create a menu page of styles that when you hover over it photos will transition 
 inpiration taken from milly.com/milly-minis
 ![style menu] (https://github.com/kceballos/InspirationRepo/blob/master/style%20menu.jpg?raw=true)
 
+And maybe add a social media bar on the side where the customer can share any photos from my website. 
+![social media bar] (https://github.com/kceballos/InspirationRepo/blob/master/social%20media%20menu%20bar.jpg?raw=true)
+
+Pinterest sharing:
+![pinterest gallery] (https://github.com/kceballos/InspirationRepo/blob/master/pinterest%20sharing%20gallery.jpg?raw=true)
