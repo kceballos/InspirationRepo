@@ -7,6 +7,9 @@ Background with sliding photos as in image below. Inspiration from thirdcrown.co
 Create a footer with an instagram photos and a button to view gallery.(inspiration from littleadi.com)
 ![insta footer] (https://github.com/kceballos/InspirationRepo/blob/master/instagram%20gallery%20footer.jpg?raw=true)
 
+Gallery layout to be like this:
+![gallery view] (https://github.com/kceballos/InspirationRepo/blob/master/gallery%20view.jpg?raw=true)
+
 Create a menu page of styles that when you hover over it photos will transition from flats to on model photos.
 inpiration taken from milly.com/milly-minis
 ![style menu] (https://github.com/kceballos/InspirationRepo/blob/master/style%20menu.jpg?raw=true)
